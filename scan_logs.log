@@ -1,0 +1,23 @@
+2025-06-28 11:24:02,078 - INFO - Scan requested: http://example.com/ from IP 127.0.0.1
+2025-06-28 11:24:03,227 - INFO - HTTP Request: GET http://example.com/ "HTTP/1.1 200 OK"
+2025-06-28 12:21:41,973 - INFO - Scan requested: https://www.youtube.com/feed/history from IP 127.0.0.1
+2025-06-28 12:44:27,288 - INFO - Scan requested: https://www.youtube.com/ from IP 127.0.0.1
+2025-06-28 12:44:27,845 - INFO - HTTP Request: GET https://www.youtube.com/ "HTTP/1.1 200 OK"
+2025-06-28 12:51:36,679 - INFO - Scan requested: https://www.youtube.com/ from IP 127.0.0.1
+2025-06-28 12:51:37,288 - INFO - HTTP Request: GET https://www.youtube.com/ "HTTP/1.1 200 OK"
+2025-06-28 12:52:40,270 - INFO - Scan requested: https://www.youtube.com/ from IP 127.0.0.1
+2025-06-28 12:52:41,021 - INFO - HTTP Request: GET https://www.youtube.com/ "HTTP/1.1 200 OK"
+2025-06-28 12:53:14,415 - INFO - Scan requested: https://www.youtube.com/ from IP 127.0.0.1
+2025-06-28 12:53:15,208 - INFO - HTTP Request: GET https://www.youtube.com/ "HTTP/1.1 200 OK"
+2025-06-28 13:01:16,979 - INFO - Scan requested: https://www.youtube.com/ from IP 127.0.0.1
+2025-06-28 13:01:17,766 - INFO - HTTP Request: GET https://www.youtube.com/ "HTTP/1.1 200 OK"
+2025-06-28 13:05:23,443 - INFO - Scan requested: https://www.youtube.com/ from IP 127.0.0.1
+2025-06-28 13:05:25,281 - INFO - HTTP Request: GET https://www.youtube.com/ "HTTP/1.1 200 OK"
+2025-06-28 13:06:00,821 - INFO - Scan requested: https://www.youtube.com/ from IP 127.0.0.1
+2025-06-28 13:06:01,527 - INFO - HTTP Request: GET https://www.youtube.com/ "HTTP/1.1 200 OK"
+2025-06-28 13:07:00,669 - INFO - Scan requested: http://testphp.vulnweb.com/ from IP 127.0.0.1
+2025-06-28 13:07:03,593 - INFO - HTTP Request: GET http://testphp.vulnweb.com/ "HTTP/1.1 200 OK"
+2025-06-28 13:07:33,558 - INFO - Scan requested: http://zero.webappsecurity.com/ from IP 127.0.0.1
+2025-06-28 13:07:35,988 - INFO - HTTP Request: GET http://zero.webappsecurity.com/ "HTTP/1.1 200 OK"
+2025-06-28 13:08:13,708 - INFO - Scan requested: https://juice-shop.herokuapp.com/ from IP 127.0.0.1
+2025-06-28 13:08:15,133 - INFO - HTTP Request: GET https://juice-shop.herokuapp.com/ "HTTP/1.1 200 OK"
